@@ -1,2 +1,2 @@
 # Adsmania
-Adsmania website for a client
+A Virtual Viral Advertising Agency in Delhi
